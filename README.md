@@ -27,7 +27,7 @@
 ##### linux命令行下使用curl上传文件
 
 + **推荐方法**
-`curl -X POST -F 'file=@path/1M' http://127.0.0.1:9999/uploads`
+`curl -X POST -F 'file=@path/file' http://127.0.0.1:9999/uploads`
 
 #### 下载
 ##### 使用wget下载
