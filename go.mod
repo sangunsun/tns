@@ -1,3 +1,3 @@
-module github.com/sangunsun/tns.go
+module github.com/sangunsun/tns
 
 go 1.18
